@@ -14,3 +14,6 @@ I made pong using Love2D for fun.
 
 * Download Love2D
 * Use Love to run in the "main.lua" file directory  
+
+
+![preview_image](https://i.imgur.com/pnIPedU.gif)

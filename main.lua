@@ -65,6 +65,7 @@ function love.load()
     GameScore = Score()
 
     Push:setupScreen(GAME_WIDTH, GAME_HEIGHT, WINDOW_WIDTH, WINDOW_HEIGHT, SCREEN_FLAGS);
+    love.window.setTitle("Pong!")
 end
 
 function love.draw()
